@@ -22,4 +22,3 @@ jobs:
 
       - name: Scan with Gitleaks
         uses: cloudbees-io/gitleaks-plugin@v1
-        
